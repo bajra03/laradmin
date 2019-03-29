@@ -6,7 +6,7 @@
 @show
 
 
-<body id="page-top">
+<body id="page-top fixed">
 
   <!-- Page Wrapper -->
   <div id="wrapper">
